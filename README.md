@@ -24,7 +24,8 @@
 
 <b>Description: </b>We need to navigate to the "Access control (IAM)" section within the chosen resource group. Here, you have the option to explore the "Role assignments" tab to review all existing roles and their current assignments. After familiarizing yourself with the current setup, we will proceed to add a new user and assign them a specific role, ensuring their permissions are appropriately limited to their responsibilities. This process allows for a controlled and secure access environment within the resource group.
 
-![01_Capture](https://github.com/ImranHuhn/AzureRGIAM/assets/52342912/53f4e086-7aea-438c-a0ca-1fb44edcd56b)
+<img width="1600" height="727" alt="1img" src="https://github.com/user-attachments/assets/caab23b4-3cf4-44da-860e-19139dd70dd3" />
+
 
 1.  Once you are in the resource groups section, select the specific resource group where you want to delegate the IAM user.
 2.  Within the specific resource group, navigate to the "Access control (IAM)" section.
@@ -35,7 +36,8 @@
 
 <b>Description: </b>We have now entered the "Role" section of the process. This section displays a comprehensive list of all preconfigured roles available for assignment. While you have the option to browse through the various roles, for the purpose of this task, we will concentrate on assigning the "desktop virtualization contributor" role. This specific role grants the necessary permissions for desktop virtualization tasks.
 
-![02_Capture](https://github.com/ImranHuhn/AzureRGIAM/assets/52342912/f621b17e-5584-4f96-a176-9b21e37e8911)
+<img width="1600" height="721" alt="2img" src="https://github.com/user-attachments/assets/1d3504b7-4caa-4bc9-9a30-a18450003512" />
+
 
 1.  Ensure you are in the "Role" section.
 2.  Enter "desktop virtualization contributor" in the search bar.
@@ -46,7 +48,8 @@
 
 <b>Description: </b>We are now in the "Member" section of the process, where you have the ability to select multiple users, to assign the designated role. For this specific task, our focus will be on assigning the role to a single user, specifically the one we created in the previous lab. This section allows for a streamlined selection process, ensuring that each chosen user receives the appropriate role assignment. By concentrating on the user from our earlier setup, we can maintain consistency and accuracy in our role assignment workflow.
 
-![03_Capture](https://github.com/ImranHuhn/AzureRGIAM/assets/52342912/c33f5a67-61ba-479e-8c74-41d4ee52b84e)
+<img width="1600" height="726" alt="3img" src="https://github.com/user-attachments/assets/fdc9eded-0fb8-4a76-aacc-63f6cd5feef1" />
+
 
 1.  Note that we are now in the "member" section.
 2.  A panel on the right will appear, displaying the users you can select, when you click on this section.
@@ -58,7 +61,7 @@
 
 <b>Description: </b>This step is simple and involves reviewing your entries to ensure accuracy and satisfaction with your selections. Carefully verify all the details you have filled in to confirm that they are correct. Make sure that the chosen roles and assigned users align with your intended configurations. This final review ensures that everything is set up properly before completing the process.
 
-![04_Capture](https://github.com/ImranHuhn/AzureRGIAM/assets/52342912/09b02899-cc02-4751-b6f0-cac7bd92e1d9)
+<img width="1599" height="731" alt="4img" src="https://github.com/user-attachments/assets/58d35eb8-5991-465a-b554-0f454774ea11" />
 
 1.  When you're ready, click on "Review + assign" to initiate the construction.
 
@@ -66,7 +69,7 @@
 
 <b>Description: </b>In this final step, we will complete the process of assigning a role to a user, effectively converting them into an IAM user with the specified permissions. After completing the role assignment, we will verify the existence of the newly assigned IAM user. This involves checking the access control settings to ensure that the user appears in the list of role assignments, confirming that the permissions have been correctly applied.
 
-![04_Capture](https://github.com/ImranHuhn/AzureRGIAM/assets/52342912/09b02899-cc02-4751-b6f0-cac7bd92e1d9)
+<img width="1600" height="720" alt="5img" src="https://github.com/user-attachments/assets/f25ef139-3846-4255-83c6-83969ba7704b" />
 
 1.  Select the bell notification icon to reveal a panel on the right side.
 2.  Once the status bar fills up, it should display the message "Role assignment added" accompanied by a green check mark.
