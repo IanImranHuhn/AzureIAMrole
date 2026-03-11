@@ -16,22 +16,6 @@
  
 - <b>Conclusion: </b>Role assignment ensures secure access.
 
-<h2>How to read each section (in this order)</h2>
-
-<b>Section-Intro</b> 
-- <b>Title: </b>Name of the section.
-- <b>Description: </b>Describe what the section entails. Some sections won’t have descriptions. 
-
-<b>Image</b> 
-- <b>Numbering: </b>Within the images are sequential numbers, with corresponding text explanations directly below each image.
-- <b>Yellow highlights: </b>Yellow highlights are navigation aids to help identify your current section in the Azure portal.
-
-<b>Text numbers</b> 
-- <b>Numbers: </b>Each number provides a brief explanation of the image directly above it.
-
-<b>Side notes</b> 
-- <b>Notes: </b>Any extra details you should be aware of.
-
 <h2>Introduction</h2>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Navigating and adding an IAM role within a resource group is essential for maintaining a controlled and secure access environment. This process involves reviewing existing roles, assigning specific permissions, and ensuring users' responsibilities are appropriately limited. By following structured steps, we can effectively manage access within the resource group, enhancing security and operational efficiency.
